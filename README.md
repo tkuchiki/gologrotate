@@ -1,0 +1,2 @@
+# gologrotate
+logrotate for golang
